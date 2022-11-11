@@ -1,1 +1,2 @@
 # MGCNet
+MGCNet_Multilevel_GatedCollaborative_Network_for_RGB-D_Indoor_Scene_Parsing_20220630
