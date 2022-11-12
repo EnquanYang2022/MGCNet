@@ -12,6 +12,11 @@ MGCNet_Multilevel_GatedCollaborative_Network_for_RGB-D_Indoor_Scene_Parsing
 <p align="center">gate unit</p>
 
 
+<div align=center>
+<img src="https://github.com/EnquanYang2022/MGCNet/blob/main/SOD%20metrics/metrix.png">
+</div>
+
+
 
 <div align=center>
 <img src="https://github.com/EnquanYang2022/MGCNet/blob/main/SOD%20metrics/STERE_PR.png">
